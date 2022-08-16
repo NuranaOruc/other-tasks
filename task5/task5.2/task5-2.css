@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: 0px;
+}
+
+h2 {
+    text-align: center;
+    margin: 30px 0px 50px;
+    color: #1A213D;
+    font-size: 38px;
+}
+
+div {
+    width: 200px;
+    margin: 50px 150px ;
+    display: inline-block;
+    text-align: center;
+   
+    /* margin-bottom: 15px; islemir ne ucun? */
+}
+
+div i {
+    background-color: #304CBB;
+    padding: 11px;
+    border-radius: 30px;
+    color: white;
+    margin-bottom: 15px;
+}
+
+div h3 {
+    color: #26385B;
+    font-weight: bold;
+    font-family: 'Fjalla One', sans-serif;
+    margin-bottom: 15px;
+}
+
+div p {
+    color: #B1AACD;
+    font-family: 'Cormorant Garamond', serif;
+    margin-bottom: 15px;
+}

@@ -1,0 +1,77 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 10px 15%;
+}
+
+body {
+    height: 100vh;
+    background-color: #305534;
+    color: white;
+    display: inline-block;
+    /* display inline blok u bodye mi vermeli idim? */
+}
+/* 
+.clearFix {
+    clear:both
+    } 
+    etdim sehife deyisdi butunn ona gore commente add etdim*/
+    
+.leftBox {
+    float: left;
+    width: 46%;
+}
+
+.rightBox {
+    float: right;
+    width: 39%;
+}
+
+body h4 , p , a , img , h5 {
+ margin-bottom: 20px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.rightBox h5 {
+    font-size: 20px;
+}
+
+.leftBox h4 {
+    font-size: 38px;
+}
+
+.leftImg img {
+    height: 50vh;
+    width: 500px;
+}
+
+.rightImg img {
+    height: 29vh;
+    width: 250px;
+}
+
+.rightBox a {
+    display: inline-block;
+    margin: 24px 3px 55px 0px;
+    text-decoration: none;
+    font-weight: 40px;
+    color: white;
+    background-color: #00880F;
+    border: 1px solid transparent;
+    border-radius: 30px;
+    padding: 15px;
+   
+    /* body e 
+    1.color white demisem amma a tagi goturmur sonra ayrica a tagina verdim 
+    2.body'e display inline blok demisdim amma a tagine tesir etmedi
+    ne ucun  */
+}
+
+/* sag ve sol divleri avtomatik beraberlesdire bilmedim hundurluklerini nece etmeli idim */
