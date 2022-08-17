@@ -10,3 +10,5 @@
 [Preview Task6.1](https://codepen.io/nuranln/pen/oNqQEZR)-->[Github Task6.1](https://github.com/NuranaOruc/other-tasks/tree/main/task6.1)
 
 [Preview Task6.2](https://codepen.io/nuranln/pen/jOzQZwL)-->[Github Task6.2](https://github.com/NuranaOruc/other-tasks/tree/main/task6.2)
+
+[Preview Task7](https://codepen.io/nuranln/pen/LYdXXLN)--->[Github Task7](https://github.com/NuranaOruc/other-tasks/tree/main/task7)
